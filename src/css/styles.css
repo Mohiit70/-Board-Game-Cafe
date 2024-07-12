@@ -99,18 +99,18 @@ body {
 .hero-content h1,
 .hero-content p {
     font-weight: bold;
-    font-size: 3rem; 
-    line-height: 1.2; 
-    margin-bottom: 10px; 
-    color: var(--primary-color);
+    font-size: 3rem; /* Adjust as needed */
+    line-height: 1.2; /* Adjust line height for better spacing */
+    margin-bottom: 10px; /* Reduce margin for closer spacing */
+    color: var(--primary-color); /* White or your preferred color */
 }
 
 .hero-content p {
-    font-size: 1.5rem; 
-    margin-bottom: 20px; 
-    color: var(--primary-color); 
-    font-weight: lighter; 
-    line-height: 1.6; 
+    font-size: 1.5rem; /* Adjust font size */
+    margin-bottom: 20px; /* Maintain larger margin for separation */
+    color: var(--primary-color); /* White or your preferred color */
+    font-weight: lighter; /* Adjust font weight if needed */
+    line-height: 1.6; /* Adjust line height for better spacing */
 }
 
 /* Events Calendar Styles */

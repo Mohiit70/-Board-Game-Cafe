@@ -10,7 +10,7 @@ const HeroSection = () => (
                 <p>Join us for a relaxing atmosphere and a variety of board games!</p>
             </div>
             <div className="right-content">
-                <img src="img/fotor-ai-20240712205220.jpg" alt="Hero Image" />
+                <img src="img/hero.jpg" alt="Hero Image" />
             </div>
         </div>
     </section>
