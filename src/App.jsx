@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import Calendar from './components/Calendar';
 import Menu3D from './components/Menu3D';
+import Footer from './components/Footer';
 import ContactForm from './components/ContactForm';
 import './css/styles.css';
 
