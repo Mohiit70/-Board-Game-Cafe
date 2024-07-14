@@ -42,6 +42,23 @@ To get started with the project, follow these steps:
 
 Check out this video demo to see the project in action: [Loom Video](https://www.loom.com/share/5819258892fa4694b28264dfac87dd38?t=6&sid=512c94b3-530c-4237-99b6-a3a2d663a622)
 
+## Images
+
+<img src="img/Screenshot%202024-07-14%20233956.png" alt="Screenshot 1" width="750">
+<br><br>
+
+<img src="img/Screenshot%202024-07-14%20234005.png" alt="Screenshot 2" width="750">
+<br><br>
+
+<img src="img/Screenshot%202024-07-14%20234037.png" alt="Screenshot 3" width="750">
+<br><br>
+
+<img src="img/Screenshot%202024-07-14%20234046.png" alt="Screenshot 4" width="750">
+<br><br>
+
+<img src="img/Screenshot%202024-07-14%20234005.png" alt="Screenshot 5" width="750" style="margin-top: 20px;">
+<br><br>
+
 ## Contributing
 
 We welcome contributions to improve the Sip & Play Cafe website. Feel free to submit issues or pull requests.
